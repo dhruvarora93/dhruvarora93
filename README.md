@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Jan 29, 2020
+<!--
+Jan 29, 2021
 
 I am currently reading 'Refactoring at Scale' by Maude Lemaire. Great read, especially when you are in the midst of a major refactor. We are moving from a REST framework to graphQL for one of our services. This is also my first time using Hasura. It's pretty neat, you should definitely try it out. 
+-->
 
+I write tech articles at: https://medium.com/@darora8
